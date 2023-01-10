@@ -6,4 +6,4 @@ Personal website made in react and hosted through aws on s3 but includes a custo
 
 
 
-note: Currently issues with email js account so no contact functionality available atm also the first endpoint should be in service, but if it fails, view from the 2nd link
+note: Currently issues with email js account so no contact functionality available atm also the first endpoint should be in service, but if it fails, view from the 2nd link. Finally no favicon was added and will be planned for later, but the aws end-to-end connection was a higher priority at this time
