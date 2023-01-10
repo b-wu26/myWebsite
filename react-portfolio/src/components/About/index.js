@@ -30,10 +30,10 @@ const About = () => {
 
                         
                         <p>
-                            I'm an open-minded software developer currently completing a Computer Engineering Degree at the University of Waterloo. I have had several opportunities to work at various tech companies in fields such as Quality Assurance and Devops/Platform Engineering, and am currently pursing an intership related to backend development or cloud computing operations/development. 
+                            I'm an open-minded software developer currently completing a Computer Engineering Degree at the University of Waterloo. I have had several opportunities to work at various tech companies in fields such as Quality Assurance and  DevOps/Platform Engineering, and am currently pursuing an internship related to backend development or cloud computing operations/development. 
                         </p>
                         <p>
-                            I am quietly confident, curious by nature and eager to learn about new technologies and the world around me.
+                            I am quietly confident but always open to discussing ideas or projects, curious by nature, and eager to learn about new technologies and the world around me.
                         </p>
                     </h1>
                 </div>
